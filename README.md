@@ -1,5 +1,6 @@
 # How_to_use_Git
 
-- git state에 올라간 파일을 취소하고 싶을 때
+- staging area에서 파일을 제거할 때
 
-`git reset 파일명`
+    `git reset 파일명`
+
